@@ -10,16 +10,12 @@ Hi there! My name is Collins Ikechukwu and this is my GitHub profile. Here you'l
   <a href="https://www.youtube.com/c/devcollinss"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/devcollinss"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;x  
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/devcollinss/custom-icon-badges -->
-<!-- View counter - https://github.com/devcollinss/Simple-View-Counter -->
+
 <p align="center">
   <a href="https://www.youtube.com/c/devcollinss?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyzSAs2txaqymg83LWzOBUg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
