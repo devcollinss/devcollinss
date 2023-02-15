@@ -17,10 +17,10 @@ Hi there! My name is Collins Ikechukwu and this is my GitHub profile. Here you'l
 
 
 <p align="center">
-  <a href="https://www.youtube.com/c/devcollinss?sub_confirmation=1">
+  <!-- <a href="https://www.youtube.com/c/devcollinss?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyzSAs2txaqymg83LWzOBUg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/c/devcollinss">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyzSAs2txaqymg83LWzOBUg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyzSAs2txaqymg83LWzOBUg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
   <a href="https://github.com/devcollinss?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devcollinss?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/devcollinss?tab=followers">
