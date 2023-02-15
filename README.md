@@ -1,6 +1,14 @@
-### Hi there 👋
+# 👩‍💻 devcollins - Collins Ikechukwu
 
+**`Developer / Pianist`**
 
+Hi there! My name is Collins Ikechukwu and this is my GitHub profile. Here you'll find some of my projects and contributions to open-source software. I'm passionate about Web Development and other programing related stuffs, and I love to collaborate with others to build amazing things.
+
+<p align="left">
+    
+</p>
+
+<!--
 **devcollinss/devcollinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
